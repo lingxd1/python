@@ -1,0 +1,4 @@
+[2023-04-11 17:56:40,857][MainThread:14632][task_id:user][user_interface.py:14][WARNING][用户名已存在]
+[2023-04-11 17:57:07,991][MainThread:14632][task_id:user][user_interface.py:33][INFO][q 注册成功]
+[2023-04-11 17:57:19,163][MainThread:14632][task_id:user][user_interface.py:51][INFO][lingxd登录成功]
+[2023-04-11 17:57:26,556][MainThread:14632][task_id:bank][bank_interface.py:15][INFO][用户lingxd 提现11 手续费0.5500000000000007]
